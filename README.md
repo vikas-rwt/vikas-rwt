@@ -4,7 +4,7 @@
 Most of the times you will see me working with Python/JavaScript, and on DevOps tools like Docker, Kubernetes, Ansible, Terraform, Jenkins, Git etc.
 
 <div id="badges">
-  <a target="_blank">
+  <a>
     <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrwt22@gmail.com" />
   </a>
   <a href="https://linkedin.com/in/vikas-rwt" target="_blank">
@@ -27,6 +27,21 @@ Most of the times you will see me working with Python/JavaScript, and on DevOps 
 - DevOps
 - Cloud
 
+## 🛠️ Languages & Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NODEJS" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="PYTHON" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="GIT" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GITHUB" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="DOCKER" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="LINUX" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="UBUNTU" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="TERRAFORM" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" alt="ARGOCD" height=40 width=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="K8S" height=40 width=40 />&nbsp
+</div>
 
 ## ⚡ My GitHub Stats
 
