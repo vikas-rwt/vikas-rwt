@@ -1,16 +1,27 @@
 <h2 align="center">Hello there! My name is Jolly 👋🤓</h2>
-<p align="center">I'm a DevOps and Cloud Engineer Aspirant from India. Learning new tech is what makes me excited
+<p align="center">I'm from India, an Graduate from MDU, Rohtak. Passionate in DevOps and Cloud tools and platforms. Learning new tech is what makes me excited
 Most of the times you will see me working with Python/JavaScript, and on DevOps tools like Docker, Kubernetes, Ansible, Terraform, Jenkins, Git etc.
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## ⚡ Updates
 
-- 🔭 I’m currently working on making awesome YouTube Videos for teaching DevOps <br/>
-- 🌱 I’m currently preparing for K8s certifications<br/>
+- 🔭 I’m currently working on my DevOps Portfolio <br/>
+- 🌱 I’m currently preparing for AWS Certifications <br/>
 - 👯 I’m looking for help with modifying my wordpress site. Any help would be appreciated!<br/>
-- 🤔 I’m looking for help with making presentations that help people learn for free<br/>
-- 💬 Ask me about programming and DevOps!<br/>
-- 📫 How to reach me: Email: vikashashoke@gmail.com<br/>
-- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/MrDevOps. Tech & Shopping addict :P<br/>
+- 💬 Ask me about DevOps, Linux and Python<br/>
+- 📫 How to reach me: Email: vrwt22@gmail.com <br/>
+- ⚡ Fun fact: I love travelling, stargazing, I mean just be in nature 24/7 🥰<br/>
 
 ## ⚡ Domains
 - DevOps
