@@ -2,9 +2,10 @@
 <p align="center">I'm from India, an Graduate from MDU, Rohtak. Passionate in DevOps and Cloud tools and platforms. Learning new tech is what makes me excited
 Most of the times you will see me working with Python/JavaScript, and on DevOps tools like Docker, Kubernetes, Ansible, Terraform, Jenkins, Git etc.
 
+https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wikkie-m/
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wikkie-m/" alt="linked-in" />
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
