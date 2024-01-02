@@ -1,3 +1,7 @@
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <h2 align="center">Hello there! My name is Jolly 👋🤓</h2>
 <p align="center">I'm from India, an Graduate from MDU, Rohtak. Passionate in DevOps and Cloud tools and platforms. Learning new tech is what makes me excited
 Most of the times you will see me working with Python/JavaScript, and on DevOps tools like Docker, Kubernetes, Ansible, Terraform, Jenkins, Git etc.
@@ -15,14 +19,13 @@ Most of the times you will see me working with Python/JavaScript, and on DevOps 
 
 - 🔭 I’m currently working on my DevOps Portfolio <br/>
 - 🌱 I’m currently preparing for AWS Certifications <br/>
-- 👯 I’m looking for help with modifying my wordpress site. Any help would be appreciated!<br/>
+- 👯 I’m looking for help with finding a role as DevOps Intern/Engineer<br/>
 - 💬 Ask me about DevOps, Linux and Python <br/>
 - ⚡ Fun fact: I love travelling, stargazing, I mean just be in nature 24/7 🥰<br/>
 
 ## ⚡ Domains
 - DevOps
 - Cloud
-
 
 
 ## ⚡ My GitHub Stats
