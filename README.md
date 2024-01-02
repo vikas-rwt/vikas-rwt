@@ -43,8 +43,5 @@ Most of the times you will see me working with Python/JavaScript, and on DevOps 
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="K8S" height=40 width=40 />&nbsp
 </div>
 
-## ⚡ My GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-rwt" />
 
 
