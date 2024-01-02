@@ -1,9 +1,12 @@
 
-<h2 align="center">Hello there! My name is Jolly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+<h2 align="center">Hello there! My name is Vikas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 <p align="center">I'm from India, an Graduate from MDU, Rohtak. Passionate in DevOps and Cloud tools and platforms. Learning new tech is what makes me excited
 Most of the times you will see me working with Python/JavaScript, and on DevOps tools like Docker, Kubernetes, Ansible, Terraform, Jenkins, Git etc.
 
 <div id="badges">
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrwt22@gmail.com" />
+  </a>
   <a href="https://linkedin.com/in/vikas-rwt" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linked-in" />
   </a>
