@@ -45,5 +45,6 @@ Most of the times you will see me working with Python/JavaScript, and on DevOps 
 
 ## ⚡ My GitHub Stats
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-rwt" />
 
 
