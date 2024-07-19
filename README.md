@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there! My name is Vikas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-<p align="center">I'm from India, an Graduate from MDU, Rohtak. Passionate in DevOps and Cloud tools and platforms. Learning new tech is what makes me excited
-Most of the times you will see me working with Python/JavaScript, and on DevOps tools like Docker, Kubernetes, Ansible, Terraform, Jenkins, Git etc.
+<p align="center">I'm from India, an Graduate from MDU, Rohtak. Working as a techincal consultant at Anvesh Vision PVT LTD. Contributing to the ICICI Bank cyber security team. Always learning and growing.
+Most of the times you will see me working with Key Management Systems on-prem and on clouds like - AWS, Azure, GCP and OCI. I also work with tools like Docker, Ansible, Terraform, Jenkins, Git etc.
 
 <div id="badges">
   <a>
@@ -17,14 +17,16 @@ Most of the times you will see me working with Python/JavaScript, and on DevOps 
 
 ## ⚡ Updates
 
-- 🔭 I’m currently working on my DevOps Portfolio <br/>
-- 🌱 I’m currently preparing for AWS Certifications <br/>
-- 👯 I’m looking for help with finding a role as DevOps Intern/Engineer<br/>
-- 💬 Ask me about DevOps, Linux and Python <br/>
+- 🔭 I’m currently working at Anvesh Vision PVT LTD as Junior Technical Consultant. <br/>
+- 🌱 I’m currently preparing for Azure Solution Architect certification. <br/>
+- 👯 I’m looking for projects to work as a part time. <br/>
+- 💬 Ask me about PKI, SSL/TLS, DevOps and Clouds. <br/>
 - ⚡ Fun fact: I love travelling, stargazing, I mean just be in nature 24/7 🥰<br/>
 
 ## ⚡ Domains
 - DevOps
+- PKI
+- KMS
 - Cloud
 
 ## 🛠️ Languages & Tools:
